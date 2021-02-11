@@ -1,0 +1,4 @@
+venv
+.idea
+comidas.csv
+comidas_clean.csv
